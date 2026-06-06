@@ -1,9 +1,5 @@
 //-----------------------------------------------------
 // Title: Main Class
-// Author: Zeineddin Zidan
-// ID: 99621968516
-// Section: 1
-// Assignment: 3
 // Description: This class processes files containing algebraic expression commands
 // and interacts with the AlgExpressionTree class to build, evaluate, and display expressions.
 //-----------------------------------------------------
