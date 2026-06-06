@@ -1,9 +1,5 @@
 //-----------------------------------------------------
 // Title: AlgExpressionTree Class
-// Author: zeineddin zidan
-// ID:99621968516
-// Section: 1
-// Assignment: 3
 // Description: This class builds and manages algebraic expression trees.
 //-----------------------------------------------------
 
